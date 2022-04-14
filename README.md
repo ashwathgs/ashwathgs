@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwathgs&label=Profile%20views&color=0e75b6&style=flat" alt="ashwathgs" /> </p>
 
-- 🌱 Budding Developer**
+- 🌱 Budding Developer
 
 - 📫 How to reach me **ashwathgobi@gmail.com**
 
